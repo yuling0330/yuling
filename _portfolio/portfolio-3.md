@@ -1,6 +1,6 @@
 ---
-title: "Google Store Analytics Transaction Revenue Prediction <br/><img src='/images/frontpage.PNG'>"
-excerpt: "Using year round google analytics store data to predict customer consumption. In addition use RFM to perform customer clustering and predict customer life time value based on customer clustering "
+title: "Google Store Analytics Transaction Revenue Prediction"
+excerpt: "Using year round google analytics store data to predict customer consumption. In addition use RFM to perform customer clustering and predict customer life time value based on customer clustering <br/><img src='/images/frontpage.PNG'>"
 collection: portfolio
 ---
 
