@@ -1,6 +1,6 @@
 ---
 title: "Blindness Detection"
-excerpt: "Using deep learning to classify different stage of blindness <br/><img src='/images/blindness_front.PNG'>"
+excerpt: "Using deep learning to classify different stage of blindness <br/><img src='/images/blindness_front.PNG  =500x300'>"
 collection: portfolio
 ---
 

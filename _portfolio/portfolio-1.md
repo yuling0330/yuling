@@ -1,6 +1,6 @@
 ---
 title: "ICU 24 Hour Survival Prediction"
-excerpt: "Use first and 24 hour ICU lab measurements to predict probability of survival rate <br/><img src='/images/eda_to_show.png'>"
+excerpt: "Use first and 24 hour ICU lab measurements to predict probability of survival rate <br/><img src='/images/eda_to_show.png  =500x300'>"
 collection: portfolio
 ---
 
