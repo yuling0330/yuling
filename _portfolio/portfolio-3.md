@@ -6,7 +6,7 @@ collection: portfolio
 
 ---
 <figure class="aligncenter">
-    <img src="https://i2.wp.com/moguldom.com/wp-content/uploads/2020/03/Yelp-Review-Logo.jpg?w=860&ssl=1" />
+    <img src="https://www.trumpetlocalmedia.com/wp-content/uploads/2017/01/yelp.png" />
 </figure>
 
 ### Project Summary
