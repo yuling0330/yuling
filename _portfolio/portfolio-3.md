@@ -21,5 +21,5 @@ Graph Analysis on friends
 
 
 More Detailed Work can be found at:
-  - <a href="https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook" title="Title">Code</a>
+  - <a href="https://github.com/yuling0330/yelp-review-big-data/tree/master/notebook" title="Title">Code</a>
   - <a href="hhttps://github.com/yuling0330/yelp-review-big-data/tree/master/presentation" title="Title">Presentation</a>
