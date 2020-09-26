@@ -1,26 +1,25 @@
 ---
-title: "Google Store Analytics Transaction Revenue Prediction"
-excerpt: "Using year round google analytics store data to predict customer consumption. In addition use RFM to perform customer clustering and predict customer life time value based on customer clustering <br/><img src='/images/frontpage.PNG'>"
+title: "Yelp Review Recommedation System
+excerpt: "Utilized yelp reviewed data from business and customers and implemented associate mining to build recommendation system for both business and consumers. In addition, performed graph using friends feature. <br/><img src='/images/frontpage1.PNG'>"
 collection: portfolio
 ---
 
 ---
 <figure class="aligncenter">
-    <img src="https://i.pcmag.com/imagery/reviews/04u4r8E0NHva7mQ3Bnozbh6-9.1569482850.fit_scale.size_1028x578.jpg" />
+    <img src="https://i2.wp.com/moguldom.com/wp-content/uploads/2020/03/Yelp-Review-Logo.jpg?w=860&ssl=1" />
 </figure>
 
 ### Project Summary
 
 **Problem Statement**:
-The 80/20 rule has proven true for many businesses, only a small percentage of customers produce most of the revenue.  Understanding how much each customer spends will allow companies to place actionable operations to better allocate their marketing budgets.
+
+Yelp is a business directory service and crowd-sourced review forum, as well as the online reservation service Yelp Reservations. The company also trains small businesses in how to respond to reviews, hosts social events for reviewers, and provides data about businesses, including health inspection scores.
 
 **Objective**:
-Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
-
-- $$y_{user} = \sum_{i=1}^{n} transaction_{user_i}$$
-- $$target_{user} = \ln({y_{user}+1})$$
+The goal of our project is to predict stars and type of reviews that restaurants received based on the overall data. On the other hand, we also worked on recommending restaurants to users based on stars and reviews received.
+Graph Analysis on friends
 
 
 More Detailed Work can be found at:
-  - <a href="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/tree/master/notebook" title="Title">Code</a>
-  - <a href="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/presentation/Customer_Revenue_Prediction_Presentation.pdf" title="Title">Presentation</a>
+  - <a href="https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook" title="Title">Code</a>
+  - <a href="hhttps://github.com/yuling0330/yelp-review-big-data/tree/master/presentation" title="Title">Presentation</a>
