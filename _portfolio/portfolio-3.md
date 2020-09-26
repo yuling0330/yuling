@@ -1,5 +1,5 @@
 ---
-title: "Yelp Review Recommedation System
+title: "Yelp Review Recommedation System"
 excerpt: "Utilized yelp reviewed data from business and customers and implemented associate mining to build recommendation system for both business and consumers. In addition, performed graph using friends feature. <br/><img src='/images/frontpage1.PNG'>"
 collection: portfolio
 ---
